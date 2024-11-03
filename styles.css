@@ -1,3 +1,13 @@
 .counter-heading {
     text-align: center;
 }
+
+input {  
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid rgb(135, 206, 235);
+    border-radius: 10px;
+}
