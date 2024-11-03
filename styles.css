@@ -12,6 +12,11 @@ input {
     border-radius: 10px;
 }
 
+input:focus {
+	outline: none;
+    border: 2px solid rgb(135, 206, 235);
+}
+
 .check {
     align-items: center;
     justify-content: center;
