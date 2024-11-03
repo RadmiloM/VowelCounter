@@ -11,3 +11,17 @@ input {
     border: 2px solid rgb(135, 206, 235);
     border-radius: 10px;
 }
+
+.check {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+    background-color: green;
+    color: #fff;
+    padding: 9px;
+    border-radius: 10px;
+}
